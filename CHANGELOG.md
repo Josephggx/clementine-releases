@@ -1,5 +1,12 @@
 # Nouveautés de Clémentine
 
+## 1.0.6 — 20 octobre 2026
+
+- Métadonnées n’est plus proposé pour les dossiers, dans la roue et l’Atelier. ZIP reste disponible.
+- Les dossiers affichent « Dossier » dans la liste et l’aperçu de l’Atelier, au lieu de « Autre ».
+
+Correctifs différentiels disponibles depuis les versions 1.0.3, 1.0.4 et 1.0.5.
+
 ## 1.0.5 — 20 octobre 2026
 
 - Corrige la régression d’affichage : les éléments du glisser-déposer restent au-dessus de la roue.
