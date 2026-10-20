@@ -2,9 +2,9 @@
 
 Convertissez et modifiez vos fichiers directement sur votre Mac.
 
-[![Télécharger Clémentine pour Mac](https://img.shields.io/badge/T%C3%A9l%C3%A9charger_Cl%C3%A9mentine-pour_Mac-f56d30?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Josephggx/clementine-releases/releases/download/v1.0.4/Clementine-1.0.4-arm64.dmg)
+[![Télécharger Clémentine pour Mac](https://img.shields.io/badge/T%C3%A9l%C3%A9charger_Cl%C3%A9mentine-pour_Mac-f56d30?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Josephggx/clementine-releases/releases/download/v1.0.5/Clementine-1.0.5-arm64.dmg)
 
-**[⬇ Télécharger l’installateur — version 1.0.4](https://github.com/Josephggx/clementine-releases/releases/download/v1.0.4/Clementine-1.0.4-arm64.dmg)**
+**[⬇ Télécharger l’installateur — version 1.0.5](https://github.com/Josephggx/clementine-releases/releases/download/v1.0.5/Clementine-1.0.5-arm64.dmg)**
 
 Mac Apple Silicon (M1 ou ultérieur) · macOS 14 ou ultérieur.
 
@@ -20,7 +20,7 @@ L’app est signée localement, sans notarisation Apple. macOS peut demander une
 
 ## Mises à jour
 
-Les prochaines versions seront proposées dans Clémentine via le bouton **Mettre à jour**. Vous pouvez aussi vérifier depuis les **Réglages**, à côté du numéro de version.
+Clémentine recherche les nouvelles versions au lancement, puis toutes les heures en arrière-plan. Elles sont proposées via le bouton **Mettre à jour**. Vous pouvez aussi vérifier depuis les **Réglages**, à côté du numéro de version.
 
 Les mises à jour peuvent utiliser un correctif différentiel plus léger lorsqu’il est disponible pour votre version. L’installateur complet reste nécessaire pour une première installation et sert de secours si le correctif ne peut pas être appliqué.
 

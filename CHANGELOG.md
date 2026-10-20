@@ -1,5 +1,12 @@
 # Nouveautés de Clémentine
 
+## 1.0.5 — 20 octobre 2026
+
+- Corrige la régression d’affichage : les éléments du glisser-déposer restent au-dessus de la roue.
+- Recherche automatiquement les mises à jour au lancement, puis toutes les heures en arrière-plan. L’installation reste à votre initiative.
+
+Correctifs différentiels disponibles depuis les versions 1.0.2, 1.0.3 et 1.0.4.
+
 ## 1.0.4 — 20 octobre 2026
 
 - Finovox : sélection de l’onglet et du sélecteur Chrome fiabilisée. Le chargement se ferme après remise des fichiers au SaaS, qui gère les doublons et l’analyse.
