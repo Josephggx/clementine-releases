@@ -16,6 +16,8 @@ Mac Apple Silicon (M1 ou ultérieur) · macOS 14 ou ultérieur.
 
 L’app est signée localement, sans notarisation Apple. macOS peut demander une autorisation manuelle lors de la première ouverture dans **Réglages Système → Confidentialité et sécurité**.
 
+<img src="https://github.com/user-attachments/assets/7473d17a-a8e1-463e-80b5-29dcf0c48892" alt="Autoriser Clémentine dans les réglages Confidentialité et sécurité de macOS : Ouvrir quand même" width="700">
+
 ## Mises à jour
 
 Les prochaines versions seront proposées dans Clémentine via le bouton **Mettre à jour**. Vous pouvez aussi vérifier depuis les **Réglages**, à côté du numéro de version.
