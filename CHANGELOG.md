@@ -1,5 +1,15 @@
 # Nouveautés de Clémentine
 
+## 1.0.4 — 20 octobre 2026
+
+- Finovox : sélection de l’onglet et du sélecteur Chrome fiabilisée. Le chargement se ferme après remise des fichiers au SaaS, qui gère les doublons et l’analyse.
+- Glissements multiples : la roue reste au-dessus de la pile de fichiers du Finder.
+- Retour haptique : suppression des impulsions répétées lors du survol avec plusieurs fichiers.
+- ZIP : les lots peuvent inclure des archives, tout en masquant l’action ZIP pour une archive seule.
+- Onboarding : les animations de découverte ne réagissent plus au passage de la souris.
+
+Correctifs différentiels disponibles depuis les versions 1.0.1, 1.0.2 et 1.0.3. L’installateur complet reste disponible en secours et pour une première installation.
+
 ## 1.0.3 — 20 octobre 2026
 
 Disponible depuis **Réglages → Chercher une mise à jour** dans Clémentine, ou via l’installateur pour une première installation.
