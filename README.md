@@ -1,2 +1,25 @@
-# clementine-releases
-Installateurs et mises à jour de Clémentine pour macOS.
+# Clémentine
+
+Convertissez et modifiez vos fichiers directement sur votre Mac.
+
+[![Télécharger Clémentine pour Mac](https://img.shields.io/badge/T%C3%A9l%C3%A9charger_Cl%C3%A9mentine-pour_Mac-f56d30?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Josephggx/clementine-releases/releases/download/v1.0.1/Clementine-1.0.1-arm64.dmg)
+
+**[⬇ Télécharger l’installateur — version 1.0.1](https://github.com/Josephggx/clementine-releases/releases/download/v1.0.1/Clementine-1.0.1-arm64.dmg)**
+
+Mac Apple Silicon (M1 ou ultérieur) · macOS 14 ou ultérieur.
+
+## Installation
+
+1. Téléchargez le fichier **`.dmg`** avec le bouton ci-dessus.
+2. Ouvrez-le, puis glissez **Clémentine** dans **Applications**.
+3. Lancez Clémentine et suivez le guide de démarrage.
+
+L’app est signée localement, sans notarisation Apple. macOS peut demander une autorisation manuelle lors de la première ouverture dans **Réglages Système → Confidentialité et sécurité**.
+
+## Mises à jour
+
+Les prochaines versions seront proposées dans Clémentine via le bouton **Mettre à jour**. Vous pouvez aussi vérifier depuis les **Réglages**, à côté du numéro de version.
+
+[Toutes les versions et nouveautés](https://github.com/Josephggx/clementine-releases/releases)
+
+Les fichiers `.sha256` servent uniquement à vérifier l’intégrité des installateurs. Le fichier `appcast.xml` est utilisé par le système de mise à jour : vous n’avez pas à les télécharger pour installer l’app.
