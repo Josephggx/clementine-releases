@@ -22,6 +22,10 @@ L’app est signée localement, sans notarisation Apple. macOS peut demander une
 
 Les prochaines versions seront proposées dans Clémentine via le bouton **Mettre à jour**. Vous pouvez aussi vérifier depuis les **Réglages**, à côté du numéro de version.
 
+Les mises à jour peuvent utiliser un correctif différentiel plus léger lorsqu’il est disponible pour votre version. L’installateur complet reste nécessaire pour une première installation et sert de secours si le correctif ne peut pas être appliqué.
+
+[Consulter les changements en préparation](CHANGELOG.md)
+
 [Toutes les versions et nouveautés](https://github.com/Josephggx/clementine-releases/releases)
 
 Les fichiers `.sha256` servent uniquement à vérifier l’intégrité des installateurs. Le fichier `appcast.xml` est utilisé par le système de mise à jour : vous n’avez pas à les télécharger pour installer l’app.
