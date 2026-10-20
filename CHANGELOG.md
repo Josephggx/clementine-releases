@@ -1,8 +1,8 @@
 # Nouveautés de Clémentine
 
-## 1.0.3 — en préparation, non publiée
+## 1.0.3 — 20 octobre 2026
 
-La version téléchargeable et proposée par l’app reste la **1.0.2**. Les changements ci-dessous sont synchronisés dans le dépôt des sources mais ne sont pas encore distribués.
+Disponible depuis **Réglages → Chercher une mise à jour** dans Clémentine, ou via l’installateur pour une première installation.
 
 - Mises à jour différentielles : téléchargement des fichiers modifiés lorsque le correctif est disponible, avec installateur complet en secours.
 - Installation : récupération de la relance si l’ancienne instance reste ouverte et vérification de la version réellement démarrée.
@@ -13,4 +13,4 @@ La version téléchargeable et proposée par l’app reste la **1.0.2**. Les cha
 - Métadonnées : disponible uniquement avec un seul fichier sélectionné.
 - Terminal : ouverture de chaque dossier distinct de la sélection, sans doublons et avec prise en charge des espaces, accents et caractères spéciaux.
 
-La publication du nouvel installateur, des correctifs et du flux signé est nécessaire avant de pouvoir tester ces changements depuis le bouton Mettre à jour.
+Correctif depuis la 1.0.2 : environ 311 Ko. Correctif depuis la 1.0.1 : environ 341 Ko. Si le correctif ne peut pas être appliqué, le téléchargement complet est utilisé.
