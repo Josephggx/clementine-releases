@@ -1,5 +1,13 @@
 # Nouveautés de Clémentine
 
+## 1.0.7 — 20 octobre 2026
+
+- Atelier : l’aperçu des dossiers utilise une icône de dossier.
+- Fonctionnalités : nouvelle catégorie « Dossier » après ZIP, sans sélecteur de format, avec ZIP et les actions adaptées.
+- Les dossiers ne proposent ni conversion de document ni Métadonnées, y compris lorsqu’un nom de dossier se termine par une extension de fichier.
+
+Correctifs différentiels disponibles depuis les versions 1.0.4, 1.0.5 et 1.0.6.
+
 ## 1.0.6 — 20 octobre 2026
 
 - Métadonnées n’est plus proposé pour les dossiers, dans la roue et l’Atelier. ZIP reste disponible.
