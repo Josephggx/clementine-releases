@@ -20,6 +20,8 @@ Sources synchronisées le 21 octobre 2026. Cette version n’est pas encore publ
 
 - Roue : fenêtres flottantes indépendantes de l’Atelier, réouvertures bloquées pendant le glissement et après sa fermeture ; une fenêtre Atelier déjà visible n’est plus remise au premier plan par une réouverture implicite. Tests de fenêtres et de glissement ajoutés.
 
+- Atelier : Dézip utilise la même teinte que les autres commandes. Extraction des noms accentués corrigée même sans locale UTF-8 ; les chemins sortants et les liens restent refusés. Renommage au double-clic, champ ajusté au titre avec soulignement discret, extension séparée, commandes Valider/Annuler avec survol et annulation au clic extérieur ; les informations et autres commandes sont masquées pendant l’édition.
+
 ## 1.0.7 — 20 octobre 2026
 
 - Atelier : l’aperçu des dossiers utilise une icône de dossier.
