@@ -1,5 +1,16 @@
 # Nouveautés de Clémentine
 
+## En préparation — 1.0.8
+
+Sources synchronisées le 21 octobre 2026. Cette version n’est pas encore publiée en téléchargement : l’installateur et le flux de mise à jour restent sur la version 1.0.7.
+
+- Interface disponible en français et en anglais, avec choix de langue dans Réglages et en bas à droite de l’onboarding. Le français reste la langue par défaut.
+- Onboarding : roue des outils animée sans interaction ; demandes d’autorisation fiabilisées, apps Apple absentes ignorées et boutons débloqués après refus ou expiration.
+- PDF : « Merge PDF » devient « Merge ». Split propose un dropdown PDF/JPEG/PNG ; pour PDF, choix « 1 par 1 » ou regroupement personnalisé des pages par glisser-déposer.
+- Archives : action Dézip. Le bouton Dézip d’un ZIP épinglé le remplace dans l’Atelier par ses fichiers et dossiers après extraction réussie, en conservant le ZIP original sur le disque.
+- Atelier : boutons Renommer et Supprimer sur les éléments épinglés ; confirmation avant déplacement dans la Corbeille. Retirer continue de désépingler uniquement.
+- Réglages : le bouton de vérification devient « Rechercher une mise à jour ».
+
 ## 1.0.7 — 20 octobre 2026
 
 - Atelier : l’aperçu des dossiers utilise une icône de dossier.

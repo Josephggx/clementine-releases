@@ -26,6 +26,10 @@ Les mises à jour peuvent utiliser un correctif différentiel plus léger lorsqu
 
 [Consulter les nouveautés](CHANGELOG.md)
 
+### Version en préparation
+
+La version 1.0.8 est synchronisée dans les sources, avec l’anglais, le nouveau Split, Dézip et les actions sur les documents épinglés. Elle n’est pas encore distribuée : les liens de téléchargement ci-dessus restent sur la version 1.0.7.
+
 [Toutes les versions et nouveautés](https://github.com/Josephggx/clementine-releases/releases)
 
 Les fichiers `.sha256` servent uniquement à vérifier l’intégrité des installateurs. Le fichier `appcast.xml` est utilisé par le système de mise à jour : vous n’avez pas à les télécharger pour installer l’app.
