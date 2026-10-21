@@ -22,6 +22,8 @@ Sources synchronisées le 21 octobre 2026. Cette version n’est pas encore publ
 
 - Atelier : Dézip utilise la même teinte que les autres commandes. Extraction des noms accentués corrigée même sans locale UTF-8 ; les chemins sortants et les liens restent refusés. Renommage au double-clic, champ ajusté au titre avec soulignement discret, extension séparée, commandes Valider/Annuler avec survol et annulation au clic extérieur ; les informations et autres commandes sont masquées pendant l’édition.
 
+- Cohérence fichiers : batterie étendue aux ZIP/dézip répétés, archives multiples, collisions de noms internes, renommages/déplacements externes, liens physiques, copies, Corbeille réelle et vidage pendant extraction. Correction des collisions de noms dans un ZIP et préservation des noms Mac contenant une barre oblique inverse à l’extraction ZIP native. Renommage : refus des noms commençant par un point, en plus des noms invalides ; accents, emoji et symboles autorisés conservés.
+
 ## 1.0.7 — 20 octobre 2026
 
 - Atelier : l’aperçu des dossiers utilise une icône de dossier.
