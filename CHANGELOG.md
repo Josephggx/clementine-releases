@@ -1,5 +1,13 @@
 # Nouveautés de Clémentine
 
+## 1.0.11 — 21 octobre 2026
+
+- Mises à jour directes vers la dernière version, sans installation des versions intermédiaires.
+- Catalogue GitHub actualisé à chaque vérification ; les anciens réglages de flux ne peuvent plus conserver une destination dépassée.
+- Dix correctifs différentiels directs, depuis les versions 1.0.1 à 1.0.10 vers 1.0.11. Le téléchargement complet reste disponible pour les autres installations et en secours.
+- Validation réelle : app de test 1.0.0 mise à jour directement vers 1.0.9 sans correctif compatible, avec remplacement et relance sur la dernière version. Chaque correctif publié est appliqué à sa base puis comparé à la nouvelle app signée.
+
+
 ## 1.0.10 — 21 octobre 2026
 
 - Raccourcis : Maj pour Conversion, Option pour Outils, Commande pour Actions ; migration unique des réglages existants et onboarding actualisé.
