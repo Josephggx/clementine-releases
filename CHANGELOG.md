@@ -11,6 +11,11 @@ Sources synchronisées le 21 octobre 2026. Cette version n’est pas encore publ
 - Atelier : boutons Renommer et Supprimer sur les éléments épinglés ; confirmation avant déplacement dans la Corbeille. Retirer continue de désépingler uniquement.
 - Réglages : le bouton de vérification devient « Rechercher une mise à jour ».
 
+- Split : libellés PDF/Image, insertion de PDF avant/entre/après les groupes, rotation/duplication/suppression de pages et retrait du groupe vidé. Split est proposé uniquement pour les PDF de plusieurs pages.
+- Atelier : renommage dans la ligne du document ; suivi des renommages et de la Corbeille, suppression des doublons par identité du fichier et fermeture des outils quand tous leurs fichiers ont disparu. Les autres fichiers restent sélectionnés, y compris après une modification pendant le chargement.
+- Atelier : Dézip épingle les fichiers réellement extraits sur disque, icône alignée sur la roue, ordre des commandes ajusté et affichage « 0 ko ». Confirmation native de suppression conservée avec texte raccourci.
+- Onboarding : langue sans icône ni libellé à droite de Retour ; changement d’outil toutes les 1,8 seconde.
+
 ## 1.0.7 — 20 octobre 2026
 
 - Atelier : l’aperçu des dossiers utilise une icône de dossier.
