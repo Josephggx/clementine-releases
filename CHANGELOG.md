@@ -16,6 +16,8 @@ Sources synchronisées le 21 octobre 2026. Cette version n’est pas encore publ
 - Atelier : Dézip épingle les fichiers réellement extraits sur disque, icône alignée sur la roue, ordre des commandes ajusté et affichage « 0 ko ». Confirmation native de suppression conservée avec texte raccourci.
 - Onboarding : langue sans icône ni libellé à droite de Retour ; changement d’outil toutes les 1,8 seconde.
 
+- Organize et Split personnalisé partagent désormais les mêmes miniatures, menu « … » en capsule glass, icônes et animations, avec un fond discret en fondu au survol de chaque commande. Les commandes de page restent liées à leur identifiant pendant le réordonnancement.
+
 ## 1.0.7 — 20 octobre 2026
 
 - Atelier : l’aperçu des dossiers utilise une icône de dossier.
