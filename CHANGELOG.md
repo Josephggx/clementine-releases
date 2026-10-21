@@ -1,5 +1,18 @@
 # Nouveautés de Clémentine
 
+## 1.0.10 — 21 octobre 2026
+
+- Raccourcis : Maj pour Conversion, Option pour Outils, Commande pour Actions ; migration unique des réglages existants et onboarding actualisé.
+- Float : fond glass aussi en mode compact, animation d’ouverture/repli, clic sur le fond pour ouvrir ou replier, glissement pour déplacer ; fichiers sélectionnables séparément.
+- Aperçu Atelier : grande fenêtre déplaçable et redimensionnable, défilement et vrai plein écran via le bouton vert.
+- Actions Duplicate et Atelier pour tous les fichiers et sélections ; Atelier est masqué dans l’Atelier.
+- Toast « Copié ! » près du pointeur pour Copy et Copy Path.
+- Dézip dans l’Atelier : ZIP, TAR, GZIP, y compris le GZIP d’un fichier unique. Les fichiers extraits sur disque remplacent l’archive épinglée.
+- Survols ZIP Conversion/Outils indépendants ; poubelle à gauche dans les menus de pages Organize/Split.
+- Langue de l’onboarding en bas à gauche du bloc de titre.
+
+Installateur complet signé et correctifs différentiels vérifiés depuis les versions 1.0.7, 1.0.8 et 1.0.9.
+
 ## 1.0.9 — 21 octobre 2026
 
 - Atelier : le tooltip Finder affiche uniquement le dossier contenant le fichier.

@@ -2,9 +2,9 @@
 
 Convertissez et modifiez vos fichiers directement sur votre Mac.
 
-[![Télécharger Clémentine pour Mac](https://img.shields.io/badge/T%C3%A9l%C3%A9charger_Cl%C3%A9mentine-pour_Mac-f56d30?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Josephggx/clementine-releases/releases/download/v1.0.9/Clementine-1.0.9-arm64.dmg)
+[![Télécharger Clémentine pour Mac](https://img.shields.io/badge/T%C3%A9l%C3%A9charger_Cl%C3%A9mentine-pour_Mac-f56d30?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Josephggx/clementine-releases/releases/download/v1.0.10/Clementine-1.0.10-arm64.dmg)
 
-**[⬇ Télécharger l’installateur — version 1.0.9](https://github.com/Josephggx/clementine-releases/releases/download/v1.0.9/Clementine-1.0.9-arm64.dmg)**
+**[⬇ Télécharger l’installateur — version 1.0.10](https://github.com/Josephggx/clementine-releases/releases/download/v1.0.10/Clementine-1.0.10-arm64.dmg)**
 
 Mac Apple Silicon (M1 ou ultérieur) · macOS 14 ou ultérieur.
 
@@ -26,9 +26,13 @@ Les mises à jour peuvent utiliser un correctif différentiel plus léger lorsqu
 
 [Consulter les nouveautés](CHANGELOG.md)
 
-### Version en préparation
+## Raccourcis
 
-La version 1.0.9 est synchronisée dans les sources, avec l’anglais, le nouveau Split, Dézip et les actions sur les documents épinglés. Elle n’est pas encore distribuée : les liens de téléchargement ci-dessus restent sur la version 1.0.9.
+Glissez un fichier, puis appuyez sur la touche choisie :
+
+- **Maj** : Conversion
+- **Option** : Outils
+- **Commande** : Actions
 
 [Toutes les versions et nouveautés](https://github.com/Josephggx/clementine-releases/releases)
 
