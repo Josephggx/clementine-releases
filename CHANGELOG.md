@@ -18,6 +18,8 @@ Sources synchronisées le 21 octobre 2026. Cette version n’est pas encore publ
 
 - Organize et Split personnalisé partagent désormais les mêmes miniatures, menu « … » en capsule glass, icônes et animations, avec un fond discret en fondu au survol de chaque commande. Les commandes de page restent liées à leur identifiant pendant le réordonnancement.
 
+- Roue : fenêtres flottantes indépendantes de l’Atelier, réouvertures bloquées pendant le glissement et après sa fermeture ; une fenêtre Atelier déjà visible n’est plus remise au premier plan par une réouverture implicite. Tests de fenêtres et de glissement ajoutés.
+
 ## 1.0.7 — 20 octobre 2026
 
 - Atelier : l’aperçu des dossiers utilise une icône de dossier.
