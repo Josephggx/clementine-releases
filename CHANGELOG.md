@@ -1,11 +1,11 @@
 # Nouveautés de Clémentine
 
-## En préparation — 1.0.9
+## 1.0.9 — 21 octobre 2026
 
 - Atelier : le tooltip Finder affiche uniquement le dossier contenant le fichier.
 - Renommage : largeur minimale de 100 points, sans placeholder ; libellé accessible conservé.
 
-Installateur signé et correctifs différentiels vérifiés depuis 1.0.6, 1.0.7 et 1.0.8. La release est en brouillon : l’envoi du DMG complet a échoué et doit être terminé avant publication. Le téléchargement public reste sur 1.0.8.
+Installateur signé et correctifs différentiels vérifiés depuis les versions 1.0.6, 1.0.7 et 1.0.8. Les six fichiers de la release sont publiés et leurs empreintes vérifiées.
 
 ## 1.0.8 — 21 octobre 2026
 
