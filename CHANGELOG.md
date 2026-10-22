@@ -1,5 +1,12 @@
 # Nouveautés de Clémentine
 
+## 1.0.15 — 22 octobre 2026
+
+- Print dans Actions pour PDF, documents, tableurs, images et présentations. Ouvre le dialogue d’impression macOS ; les sélections multiples préparent un seul travail sans modifier les originaux.
+- Préférence « Ouvrir dans Finovox » en dernier dans Préférences, désactivée par défaut. Masque l’action dans la roue, l’Atelier et les démonstrations tant qu’elle n’est pas activée.
+- 53 contrôles de disponibilité et de préparation d’impression réussis sans fenêtre de test ni impression envoyée.
+- Installateur complet et correctifs directs depuis les versions 1.0.1 à 1.0.14.
+
 ## 1.0.14 — 22 octobre 2026
 
 - Float : surface native d’interaction indépendante du rendu glass ; le fond capture les clics et le déplacement, les fichiers reçoivent leurs événements directement.
