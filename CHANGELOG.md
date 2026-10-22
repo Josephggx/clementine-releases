@@ -1,5 +1,12 @@
 # Nouveautés de Clémentine
 
+## 1.0.13 — 22 octobre 2026
+
+- Float : le fond, les fichiers et la croix acceptent le premier clic quand une autre app est active, sans activer l’Atelier.
+- Float utilisable pendant les dialogues de Clémentine.
+- Compilation et signature vérifiées ; aucun test graphique exécuté pour cette version.
+- Installateur complet et correctifs différentiels directs depuis les versions 1.0.1 à 1.0.12.
+
 ## 1.0.12 — 22 octobre 2026
 
 - Corrige le crash à la fermeture de l’aperçu Atelier : Quick Look assure une seule fermeture, y compris avec la croix, Échap ou un clic extérieur.
