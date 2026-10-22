@@ -1,5 +1,11 @@
 # Nouveautés de Clémentine
 
+## 1.0.12 — 22 octobre 2026
+
+- Corrige le crash à la fermeture de l’aperçu Atelier : Quick Look assure une seule fermeture, y compris avec la croix, Échap ou un clic extérieur.
+- Les notifications tardives d’un ancien aperçu ne ferment plus le suivant.
+- Installateur complet et correctifs différentiels directs depuis les versions 1.0.1 à 1.0.11.
+
 ## 1.0.11 — 21 octobre 2026
 
 - Mises à jour directes vers la dernière version, sans installation des versions intermédiaires.

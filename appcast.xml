@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Clémentine</title>
+    <language>fr</language>
+    <item>
+      <title>Clémentine 1.0.12</title>
+      <pubDate>Thu, 22 Oct 2026 07:48:35 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>Corrige le crash à la fermeture des aperçus Quick Look et protège les aperçus successifs des notifications tardives.</description>
+      <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.12-arm64.dmg" length="385151380" type="application/octet-stream" sparkle:edSignature="qFT7MdcOFBUGgLCUMgUqN8quFRwVa41KZZDKUz6FwlXWgUywZ2Jep8DogRfT/5bktBilG8TeuPCXboQt6qf9AA=="></enclosure>
+      <sparkle:deltas>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.11-to-1.0.12-arm64.delta" length="126830" type="application/octet-stream" sparkle:edSignature="E44DdAS5ChSdfQuOhye1zsIqbhrcXhm6PPkH9hbA7LQnISB2gonPhdR8M5NlhwZFYnZafhCH1VMx0f3IbKMoAQ==" sparkle:deltaFrom="21"></enclosure>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.10-to-1.0.12-arm64.delta" length="228550" type="application/octet-stream" sparkle:edSignature="wYQVTe7lyDdZODBnbXM3zHWBjX3oyvpyDGuQiwCrxAFVFGADByH8RsNnkql9/tSVm+WP0P/cDfqn5+aPk3mZAg==" sparkle:deltaFrom="20"></enclosure>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.9-to-1.0.12-arm64.delta" length="342214" type="application/octet-stream" sparkle:edSignature="Ug6GDmLs6+ga0YxjgTxH6xCG56LDvSWXXSQx4NRWy32VwIJ+hjjiVXNAQlAB5+RPyRse70tUuEQXNsAjimQkBw==" sparkle:deltaFrom="19"></enclosure>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.8-to-1.0.12-arm64.delta" length="346882" type="application/octet-stream" sparkle:edSignature="EruEauV9rrx9J4XZJaeNMyPQpezAyForF0ZLcMymolFqRIvSzJs8PIt+oGc8UOfYo0yvXFoZXN0QVQE952HTAA==" sparkle:deltaFrom="18"></enclosure>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.7-to-1.0.12-arm64.delta" length="843162" type="application/octet-stream" sparkle:edSignature="WOtgU8Fn3hmHD2X8roMlvY9HLuz6lYsuB4P5RbRkX2SKZ1SIIls/Vdi1RInI3+69Q3sCcGcMbGPmr5gRHZfOAQ==" sparkle:deltaFrom="17"></enclosure>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.6-to-1.0.12-arm64.delta" length="851882" type="application/octet-stream" sparkle:edSignature="8ZVHr3up4LTW944Yh7wg+ekBBNCRgLMZFNkvZpyV7KXj3R+15wFb7nRlCz722CLbIhjwG8ZiOlqyYZzhdA9TCA==" sparkle:deltaFrom="16"></enclosure>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.5-to-1.0.12-arm64.delta" length="849962" type="application/octet-stream" sparkle:edSignature="ySawM+Tspl+EyVyIdNbFsR1Vpgs+rydD073D6sgLWkVz+CEyuNBs0mkh+imUGdQIEd6KlxgO8fR7v4rcUiyJDQ==" sparkle:deltaFrom="15"></enclosure>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.4-to-1.0.12-arm64.delta" length="849846" type="application/octet-stream" sparkle:edSignature="joJ2dvsAB1MCXs9uHDb1cUEiL0KC19i9qN8cIbLBPKNNq6MzGd9MSrrkqrLnwUAzQaUfDCs3TyBKBqko8cjdBw==" sparkle:deltaFrom="14"></enclosure>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.3-to-1.0.12-arm64.delta" length="870410" type="application/octet-stream" sparkle:edSignature="hugutiM96i222nhvWMBkGQuel1D2V388fWJUVntcXJ5JaSkXtMrIkVT3NwMyxTwI4Jz9wTppF1CIVl/yDw4jCw==" sparkle:deltaFrom="13"></enclosure>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.2-to-1.0.12-arm64.delta" length="910214" type="application/octet-stream" sparkle:edSignature="qPaDKqC155WTCsJDTjxBDCDJE7GHSyq5RfVgX7crZDvSh3Io7PKktj4yI87e7AgLNJIh98qQbFMeswGfuGX6DA==" sparkle:deltaFrom="12"></enclosure>
+        <enclosure url="https://github.com/Josephggx/clementine-releases/releases/download/v1.0.12/Clementine-1.0.1-to-1.0.12-arm64.delta" length="924598" type="application/octet-stream" sparkle:edSignature="sKEPjjQr5jimXVv2kOGEmdvf/6nCQAeit/Qbp9PZ10DxCqzVDrPunGJo35Z4eB+GkQyJxXf/Iw0jj1RjV8hNDA==" sparkle:deltaFrom="11"></enclosure>
+      </sparkle:deltas>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: sELzDHsU8mTcO3foymJe+rReorFW+vhqcjzMrGfNotboCi9zHVAmktreStQmjUwFCAKiBm7nwjd467d/wN9KAg==
+length: 4953
+-->
