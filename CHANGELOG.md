@@ -1,5 +1,12 @@
 # Nouveautés de Clémentine
 
+## 1.0.14 — 22 octobre 2026
+
+- Float : surface native d’interaction indépendante du rendu glass ; le fond capture les clics et le déplacement, les fichiers reçoivent leurs événements directement.
+- Croix native et dépôts de fichiers gérés par la même surface ; comportement de fenêtre persistante distinct de la roue.
+- Huit contrôles natifs de routage passent sans fenêtre ni activation d’application. Le comportement au-dessus des autres apps reste à vérifier graphiquement.
+- Installateur complet et correctifs directs depuis les versions 1.0.1 à 1.0.13.
+
 ## 1.0.13 — 22 octobre 2026
 
 - Float : le fond, les fichiers et la croix acceptent le premier clic quand une autre app est active, sans activer l’Atelier.
